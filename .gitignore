@@ -1,4 +1,6 @@
 *
 !.gitignore
 !*/
+!*/a/*.hdl
 !*.hdl
+!*.asm
